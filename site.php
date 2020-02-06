@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-echo("Hello World!");
+echo("<h1>Manish's Site</h1>");
 ?>
 </body>
 </html>
